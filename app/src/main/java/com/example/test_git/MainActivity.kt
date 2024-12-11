@@ -49,6 +49,12 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
         Text(
             text = "Hello www  $name!"
         )
+        Text(
+            text = "Hello www  $name!"
+        )
+        Text(
+            text = "Hello dungtd  $name!"
+        )
     }
 }
 
