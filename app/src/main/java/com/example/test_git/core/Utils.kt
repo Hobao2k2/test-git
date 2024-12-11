@@ -4,4 +4,7 @@ class Utils {
     fun getX(): Int {
         return 12
     }
+    fun getString():String{
+        return ""
+    }
 }
